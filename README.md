@@ -62,34 +62,19 @@ Como líder da resistência, você deverá:
 # ⚔️ Recursos
 
 ### 🌿 Exploração
-
 Descubra novas regiões da floresta e encontre recursos valiosos.
 
 ### 🏹 Estratégia
-
 Planeje cuidadosamente cada movimento e coordene seus guerreiros.
 
 ### 🤝 Alianças
-
 Una diferentes aldeias para fortalecer sua resistência.
 
 ### 📜 Narrativa
-
 Uma jornada inspirada em eventos históricos, reimaginada em um universo de aventura e estratégia.
 
 ### 🚀 Jogo Web
-
 Jogue diretamente pelo navegador sem necessidade de instalação.
-
----
-
-# 🖼️ Demonstração
-
-<div align="center">
-
-<img src="assets/gif1.gif" width="500">
-
-</div>
 
 ---
 
@@ -116,7 +101,6 @@ Escaneie o QR Code localizado no topo deste README para acessar rapidamente o jo
 - HTML5
 - CSS3
 - JavaScript
-- Desenvolvimento Web
 
 ---
 
@@ -130,7 +114,7 @@ Seu apoio ajuda o desenvolvimento de novas funcionalidades.
 
 <div align="center">
 
-## 🌿 A floresta chama seus guerreiros. 🏹
+## 🌿 A floresta chama seus guerreiros 🏹
 
 <img src="assets/gif2.gif" width="400">
 
