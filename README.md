@@ -1,95 +1,139 @@
-🌿 Guerreiros da Floresta
+<div align="center">
 
-<div align="center"><img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"><br><br>
+# 🌿🏹 Guerreiros da Floresta
 
-<img src="qrcode.jpeg" width="400" alt="QR Code do Jogo"><br><br>
+### Um jogo web de estratégia, liderança e resistência.
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ0M4XJr5K/giphy.gif" width="350"></div>---
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-2ea043?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/Plataforma-Web-238636?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-1.0-1f883d?style=for-the-badge)
+![Tema](https://img.shields.io/badge/Tema-Floresta%20e%20Estratégia-14532d?style=for-the-badge)
 
-<div align="center">🏹 Guerreiros da Floresta
+<br>
 
-Um jogo web de estratégia, liderança e resistência.
+<img src="assets/gif1.gif" width="700">
 
-"Status" (https://img.shields.io/badge/Status-Em%20Desenvolvimento-2ea043?style=for-the-badge)
-"Plataforma" (https://img.shields.io/badge/Plataforma-Web-238636?style=for-the-badge)
-"Tema" (https://img.shields.io/badge/Tema-Floresta%20e%20Estratégia-1f883d?style=for-the-badge)
+<br><br>
 
-</div>---
+<img src="qrcode.jpeg" width="300" alt="QR Code do Jogo">
 
-🌳 Sobre o Jogo
+<br><br>
 
-Guerreiros da Floresta é um jogo web de estratégia ambientado em um cenário inspirado no período da colonização.
+<img src="assets/gif2.gif" width="700">
 
-Após terem suas terras invadidas, diversos povos indígenas unem forças para proteger suas aldeias, resgatar seus companheiros capturados e recuperar sua liberdade.
-
-Durante a jornada, o jogador assume o papel de líder da resistência, organizando expedições, coordenando guerreiros e tomando decisões estratégicas que definirão o futuro do seu povo.
-
----
-
-📖 História
-
-As florestas já não são mais tão seguras quanto antes.
-
-Invasores chegaram às terras indígenas, destruindo aldeias e levando prisioneiros para locais desconhecidos. Diante dessa ameaça, os líderes das tribos se unem em uma missão ousada: atravessar o oceano, encontrar a ilha onde os capturados estão sendo mantidos e trazê-los de volta para casa.
-
-Mas essa missão não será fácil.
-
-Será necessário reunir recursos, planejar estratégias, fortalecer alianças e liderar os guerreiros da floresta rumo à liberdade.
-
-🎯 Seu Objetivo
-
-- Liderar os povos indígenas.
-- Defender territórios.
-- Resgatar aliados capturados.
-- Gerenciar recursos.
-- Coordenar expedições.
-- Tomar decisões estratégicas.
-- Conduzir seu povo à vitória.
+</div>
 
 ---
 
-⚔️ Recursos do Jogo
+# 🌳 Sobre o Jogo
 
-- 🏹 Sistema de combate estratégico.
-- 🌿 Exploração de territórios.
-- 🛶 Expedições e missões especiais.
-- 🤝 Sistema de alianças.
-- 📜 História inspirada em eventos históricos.
-- 🎯 Progressão baseada em escolhas do jogador.
+**Guerreiros da Floresta** é um jogo web de estratégia ambientado em uma floresta exuberante, onde você assume o papel de líder de uma resistência indígena.
+
+Utilize inteligência, planejamento e liderança para organizar expedições, proteger aldeias e conduzir seu povo através de desafios cada vez maiores.
 
 ---
 
-🌎 Plataforma
+# 📖 História
 
-O jogo é totalmente desenvolvido para navegador.
+Após a chegada dos invasores, diversas aldeias indígenas tiveram suas terras tomadas e muitos habitantes foram capturados.
 
-Não é necessário instalar nada.
+Diante dessa ameaça, os povos da floresta decidem se unir para lutar por sua liberdade e recuperar seus companheiros.
 
-Basta acessar e jogar.
+Sua jornada levará você por territórios desconhecidos, missões de resgate e grandes desafios estratégicos.
 
----
-
-📸 Demonstração
-
-<div align="center"><img src="qrcode.jpeg" width="300"></div>---
-
-🚀 Como Jogar
-
-1. Acesse o jogo pelo navegador.
-2. Crie sua estratégia.
-3. Reúna seus guerreiros.
-4. Gerencie seus recursos.
-5. Resgate os capturados.
-6. Lidere seu povo rumo à liberdade.
+Cada decisão pode determinar o destino do seu povo.
 
 ---
 
-💚 Desenvolvido com dedicação
+# 🎯 Seu Objetivo
 
-Guerreiros da Floresta busca proporcionar uma experiência divertida de estratégia e aventura, valorizando a liderança, a cooperação e a superação de desafios.
+Como líder da resistência, você deverá:
+
+- 🏹 Comandar guerreiros indígenas.
+- 🌿 Defender aldeias e territórios.
+- 🛶 Planejar expedições estratégicas.
+- 🤝 Formar alianças.
+- 📦 Gerenciar recursos.
+- ⭐ Resgatar aliados capturados.
+- 👑 Liderar seu povo rumo à liberdade.
 
 ---
 
-<div align="center">🌿 A floresta chama seus guerreiros. 🌿
+# ⚔️ Recursos
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"></div>
+### 🌿 Exploração
+
+Descubra novas regiões da floresta e encontre recursos valiosos.
+
+### 🏹 Estratégia
+
+Planeje cuidadosamente cada movimento e coordene seus guerreiros.
+
+### 🤝 Alianças
+
+Una diferentes aldeias para fortalecer sua resistência.
+
+### 📜 Narrativa
+
+Uma jornada inspirada em eventos históricos, reimaginada em um universo de aventura e estratégia.
+
+### 🚀 Jogo Web
+
+Jogue diretamente pelo navegador sem necessidade de instalação.
+
+---
+
+# 🖼️ Demonstração
+
+<div align="center">
+
+<img src="assets/gif1.gif" width="500">
+
+</div>
+
+---
+
+# 🚀 Como Jogar
+
+1. Acesse o jogo através do navegador.
+2. Organize sua aldeia.
+3. Reúna recursos.
+4. Treine guerreiros.
+5. Complete missões.
+6. Resgate os capturados.
+7. Conduza seu povo à vitória.
+
+---
+
+# 📱 Acesso
+
+Escaneie o QR Code localizado no topo deste README para acessar rapidamente o jogo.
+
+---
+
+# 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Desenvolvimento Web
+
+---
+
+# 💚 Apoie o Projeto
+
+Se você gostou do projeto, considere deixar uma ⭐ neste repositório.
+
+Seu apoio ajuda o desenvolvimento de novas funcionalidades.
+
+---
+
+<div align="center">
+
+## 🌿 A floresta chama seus guerreiros. 🏹
+
+<img src="assets/gif2.gif" width="400">
+
+### Feito com dedicação para todos os aventureiros da floresta.
+
+</div>
