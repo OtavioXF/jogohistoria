@@ -118,6 +118,6 @@ Seu apoio ajuda o desenvolvimento de novas funcionalidades.
 
 <img src="assets/gif2.gif" width="400">
 
-### Feito com dedicação para todos os aventureiros da floresta.
+### https://otavioxf.github.io/jogohistoria/
 
 </div>
